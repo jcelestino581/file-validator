@@ -1,0 +1,6 @@
+{
+  "apiKey": "",
+  "apiUrl": "htt://bad-url",
+  "timeout": "30",
+  "retries": 3
+}
